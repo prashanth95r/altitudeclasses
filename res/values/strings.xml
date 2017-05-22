@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Altitude Classes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_schedule">Test Schedule</string>
+    <string name="results">Results</string>
+    
+    
+    <string name="seniors">Seniors</string>
+    <string name="services">\n ->  School tie ups, with complete assistance to run the classes, conduct tests (Online/Offline) \n\n ->  Material and Test Series support. \n\n ->  Provide Faculty Training. \n\n ->  Offer Franchise with a revenue sharing model. \n\n ->  Facility to clear doubts to students/Faculty.</string>
+    
+    <string name="home">"\nOur Vision is to be the most highly regarded institution of India for preparatory courses. \n\nWe at Altitude Classes spare no effort to deliver the fundamentals in the most effective manner. \n\nWe constantly scan the developments in the IIT and other engineering segments and update our curriculum accordingly.And because we are an agency that promotes excellence, We believe it&apos;s important for us to even set the standard for what we encourage in others.So we take extreme care in choosing our mentors. \n\nOur world-class faculty with its commitment and deep sense of service give us the impressive results that we are known for.\n\nWe started our journey in the year 2008. Established by a team of mentors par excellence, Altitude Classes grew manifold from that initial year.Started as an institution for IIT – JEE training, we now offer courses for AIEEE and even for the students of secondary school who dream to make it big. The performance of our students from the very first year stands testimony to our commitment.\n"</string>
+    
+    <string name="juniors">Juniors</string>
+    <string name="branch">Choose Branch</string>
+    
+    <string-array name="groups">
+        <item>Junior IIT-JEE</item>
+        <item>Senior IIT-JEE</item>
+        <item>Junior Medical</item>
+        <item>Senior Medical</item>
+    </string-array>
+    
+    <string-array name="months">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+</resources>
